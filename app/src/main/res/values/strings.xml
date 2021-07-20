@@ -1,0 +1,23 @@
+<!--Adding new resource-->
+<resources>
+    <string name="app_name">Running Tracker</string>
+    <string-array name="filter_options">
+        <item>Date</item>
+        <item>Running Time</item>
+        <item>Distance</item>
+        <item>Average Speed</item>
+        <item>Calories Burned</item>
+    </string-array>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAWRTwbw1rT8kZ6cMfkXRFqfo6OE6kH8yY</string>
+</resources>
+
+
+
+
+<!--<resources>-->
+<!--    <string name="app_name">Run Tracker</string>-->
+<!--    <string name="google_maps_key">AIzaSyAWRTwbw1rT8kZ6cMfkXRFqfo6OE6kH8yY</string>-->
+<!--</resources>-->
+
+
+<!--Google map Api key:- AIzaSyAWRTwbw1rT8kZ6cMfkXRFqfo6OE6kH8yY-->
