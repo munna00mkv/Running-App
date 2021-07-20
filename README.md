@@ -13,10 +13,12 @@ The Android App provide following features:
 [<img src="https://github.com/munna00mkv/Running-App/blob/master/project%20ss/Screenshot_1626759947.png" align="left"
 width="200"
     hspace="10" vspace="10">](https://github.com/munna00mkv/Running-App/blob/master/project%20ss/Screenshot_1626759947.png)
-[<img src="https://github.com/munna00mkv/Running-App/blob/master/project%20ss/Screenshot_1626759956.png" align="center"
+[<img src="https://github.com/munna00mkv/Running-App/blob/master/project%20ss/Screenshot_1626759956.png" align="left"
 width="200"
     hspace="10" vspace="10">](https://github.com/munna00mkv/Running-App/blob/master/project%20ss/Screenshot_1626759956.png)
-
+[<img src="https://github.com/munna00mkv/Running-App/blob/master/project%20ss/Screenshot_1626759992.png" align="left"
+width="200"
+    hspace="10" vspace="10">](https://github.com/munna00mkv/Running-App/blob/master/project%20ss/Screenshot_1626759992.png)
 [<img src="https://github.com/munna00mkv/Running-App/blob/master/project%20ss/Screenshot_1626759986.png" align="left"
 width="200"
     hspace="10" vspace="10">](https://github.com/munna00mkv/Running-App/blob/master/project%20ss/Screenshot_1626759986.png)
